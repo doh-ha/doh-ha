@@ -40,7 +40,7 @@
 <p class="has-line-data" data-line-start="4" data-line-end="5">Excellence Award, 2024 2nd Semester Ewha Graduation Project Contest, hosted by Department of Computer Science &amp; Engineering</p>
 <p class="has-line-data" data-line-start="6" data-line-end="7">Excellence Award, 2023 Self Challnege Design Project 15th Contest, hosted by Ewha Future Innovation Center</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doh-ha)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3>📚 Tech Stack 📚</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -54,6 +54,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doh-ha)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3>🛠️  Tool  🛠️ </h3>
 <p>
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> 
