@@ -22,7 +22,7 @@
 </tr>
 <tr>
 <td>Sweden Uppsala University</td>
-<td>Exchange student major in Computer Science&amp;Engineering</td>
+<td>Exchange student major in Computer Science &amp; Engineering</td>
 <td>2023.08~2024.01</td>
 </tr>
 <tr>
