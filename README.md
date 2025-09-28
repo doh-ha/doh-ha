@@ -12,7 +12,7 @@
 <tbody>
   <tr>
 <td>KIXLAB @ KAIST </td>
-<td>Research Intern &amp; </td>
+<td>Research Intern </td>
 <td>2025.06 ~ now</td>
 </tr>
 <tr>
