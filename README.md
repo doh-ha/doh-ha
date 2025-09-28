@@ -10,10 +10,15 @@
 </tr>
 </thead>
 <tbody>
+  <tr>
+<td>KIXLAB @ KAIST </td>
+<td>Research Intern &amp; </td>
+<td>2025.06 ~ now</td>
+</tr>
 <tr>
 <td>Google Developers on Campus Ewha 6th</td>
 <td>DevRel Core &amp; AI Member</td>
-<td>2024.09 ~ now</td>
+<td>2024.09 ~ 2025.08</td>
 </tr>
 <tr>
 <td>Ewha AI &amp; Data Ananlysis Club / EURON 6th</td>
