@@ -58,7 +58,7 @@
 <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/> 
 
 </p>
 
@@ -69,7 +69,7 @@
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> 
 <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/> 
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> 
-<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=black"/> 
+<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/> 
 </p>
 
 <!--
